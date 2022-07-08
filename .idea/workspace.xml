@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d30701e-a99a-4935-9f76-2b9bc73b617c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clickfunction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filechange2.htlm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileonchange.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/huy4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ivent.onmouseover.onmouseout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onmouseover.onmouseout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git&amp;html.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git&amp;html.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/huy3.html" beforeDir="false" afterPath="$PROJECT_DIR$/huy3.html" afterDir="false" />
-    </list>
+    <list default="true" id="2d30701e-a99a-4935-9f76-2b9bc73b617c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +44,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657197358536</updated>
       <workItem from="1657197361066" duration="164000" />
-      <workItem from="1657201328267" duration="8358000" />
+      <workItem from="1657201328267" duration="8870000" />
     </task>
     <servers />
   </component>
