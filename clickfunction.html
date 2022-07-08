@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p onclick="do_something()">cut</p>
+<p id="baba">di</p>
+<script>
+    function do_something(){
+        alert("hello huy");
+    }
+    var baba =document.getElementById("baba") ;
+        baba.addEventListener("click",clickfunction);
+        function clickfunction() {
+            alert("bye huy")
+        }
+
+</script>
+</body>
+</html>

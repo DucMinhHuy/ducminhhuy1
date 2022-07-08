@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Select a new car from the list.</p>
+<select id="mySelect">
+    <option value="audi">audi</option>
+    <option value="BMW">BMW</option>
+    <option value="mercedes">mercedes</option>
+    <option value="volvo">volvo</option>
+</select>
+<script>
+   var selectedElement = document.getElementById("mySelect") ;
+   selectedElement.addEventListener("change",changeFunction);
+   function changeFunction(){
+        var selectValue = document.getElementById("mySelect").value;
+        alert(selectValue);
+   }
+
+</script>
+</body>
+</html>

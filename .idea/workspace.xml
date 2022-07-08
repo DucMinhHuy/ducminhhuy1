@@ -4,15 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5018f65-e1ed-4199-bb34-008211190c30" name="Changes" comment="" />
+    <list default="true" id="2d30701e-a99a-4935-9f76-2b9bc73b617c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/clickfunction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filechange2.htlm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileonchange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huy4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ivent.onmouseover.onmouseout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onmouseover.onmouseout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git&amp;html.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git&amp;html.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huy3.html" beforeDir="false" afterPath="$PROJECT_DIR$/huy3.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/fileonchange.html" />
+    </disable_hints>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -23,8 +43,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Bb9RR4ajBIluAafXMEEvk7l9vD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2BcFEv4LEqdHAFibPHsAbvGxUto" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,19 +58,19 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c5018f65-e1ed-4199-bb34-008211190c30" name="Changes" comment="" />
-      <created>1657163908838</created>
+      <changelist id="2d30701e-a99a-4935-9f76-2b9bc73b617c" name="Changes" comment="" />
+      <created>1657197358536</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1657163908838</updated>
-      <workItem from="1657163909954" duration="6985000" />
+      <updated>1657197358536</updated>
+      <workItem from="1657197361066" duration="164000" />
+      <workItem from="1657201328267" duration="8358000" />
     </task>
     <servers />
   </component>
